@@ -1,0 +1,6 @@
+[submodule "Dude-Ajanseuranta-Backend"]
+	path = Dude-Ajanseuranta-Backend
+	url = git@github.com:ToniLipponen/Dude-Ajanseuranta-Backend.git
+[submodule "Dude-Ajanseuranta-Frontend"]
+	path = Dude-Ajanseuranta-Frontend
+	url = git@github.com:LeadSeason/Dude-Ajanseuranta-Frontend.git
