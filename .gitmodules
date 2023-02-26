@@ -4,3 +4,6 @@
 [submodule "Dude-Ajanseuranta-Frontend"]
 	path = Dude-Ajanseuranta-Frontend
 	url = git@github.com:LeadSeason/Dude-Ajanseuranta-Frontend.git
+[submodule "Dude-Ajanseuranta-Reader"]
+	path = Dude-Ajanseuranta-Reader
+	url = git@github.com:LeadSeason/Dude-Ajanseuranta-Reader.git
