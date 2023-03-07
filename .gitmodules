@@ -1,9 +1,9 @@
 [submodule "Dude-Ajanseuranta-Backend"]
 	path = Dude-Ajanseuranta-Backend
-	url = git@github.com:ToniLipponen/Dude-Ajanseuranta-Backend.git
+	url = https://github.com/ToniLipponen/Dude-Ajanseuranta-Backend.git
 [submodule "Dude-Ajanseuranta-Frontend"]
 	path = Dude-Ajanseuranta-Frontend
-	url = git@github.com:LeadSeason/Dude-Ajanseuranta-Frontend.git
+	url = https://github.com/LeadSeason/Dude-Ajanseuranta-Frontend.git
 [submodule "Dude-Ajanseuranta-Reader"]
 	path = Dude-Ajanseuranta-Reader
-	url = git@github.com:LeadSeason/Dude-Ajanseuranta-Reader.git
+	url = https://github.com/LeadSeason/Dude-Ajanseuranta-Reader.git
